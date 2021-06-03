@@ -1,6 +1,9 @@
 # Communication with Laser and LDR 
-Basic NRZ Communication with laser and LDR using two Arduino
-## Usage 
+
+## Introduction
+
+Basic NRZ Communication with laser and LDR using two Arduino. This program uses arduino codes to do 
+## Setup
 You need: 
 - Two Arduino
 - Laser
@@ -21,7 +24,9 @@ The last delay(1000) waits 1 second after sending a byte.
 
 # LDR part
 
-[BreadBoard View](https://prnt.sc/w6eij8)
+![BreadBoard View](https://prnt.sc/w6eij8)
+
+BreadBoard View
 
 We are using 9 bit this time becouse the first one is control bit.
 
@@ -38,15 +43,12 @@ Your control number should be : 800
 
 Inside the 2. if there's a delay(200) it means it reads a bit by 200ms.
 
-# TLDR
-
-Copy paste all codes. Connect laser directly. connect Ldr like [this](https://prnt.sc/w6eij8).
 
 ## SUM 
 
-At the end it should look like [this](https://prnt.sc/w6eobm)
+At the end it should look like ![this](https://prnt.sc/w6eobm)
 
-And your code should looke like [this](https://prnt.sc/w6eokk)
+And your code should looke like ![this](https://prnt.sc/w6eokk)
 
 
 
