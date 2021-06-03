@@ -2,7 +2,7 @@
 
 ## Introduction
 
-NRZ Communication with lasers on and of state. When it's on, it generates laser on LDR and when LDR's data is over normal, it generates 1 value (0 otherwise). By using lasers on and of state we are communicating with other Arduino. 
+NRZ Communication with lasers on and off state. When it's on, it generates laser on LDR and when LDR's data is over normal, it generates 1 value (0 otherwise). By using lasers on and of state we are communicating with other Arduino. 
 
 ![image](https://user-images.githubusercontent.com/18538179/120644645-3e005800-c480-11eb-898a-ae1327c44e67.png)
 
