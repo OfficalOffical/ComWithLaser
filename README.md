@@ -1,6 +1,7 @@
 # Communication with Laser and LDR 
 
 ## Introduction
+![image](https://user-images.githubusercontent.com/18538179/120644645-3e005800-c480-11eb-898a-ae1327c44e67.png)
 
 Basic NRZ Communication with laser and LDR using two Arduino. This program uses arduino codes to do 
 ## Setup
