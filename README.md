@@ -24,7 +24,7 @@ The last delay(1000) waits 1 second after sending a byte.
 
 # LDR part
 
-![BreadBoard View](https://prnt.sc/w6eij8)
+[BreadBoard View](https://prnt.sc/w6eij8)
 
 BreadBoard View
 
@@ -46,9 +46,9 @@ Inside the 2. if there's a delay(200) it means it reads a bit by 200ms.
 
 ## SUM 
 
-At the end it should look like ![this](https://prnt.sc/w6eobm)
+At the end it should look like [this](https://prnt.sc/w6eobm)
 
-And your code should looke like ![this](https://prnt.sc/w6eokk)
+And your code should looke like [this](https://prnt.sc/w6eokk)
 
 
 
