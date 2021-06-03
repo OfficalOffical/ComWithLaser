@@ -24,7 +24,8 @@ The last delay(1000) waits 1 second after sending a byte.
 
 # LDR part
 
-[BreadBoard View](https://prnt.sc/w6eij8)
+![image](https://user-images.githubusercontent.com/18538179/120644542-20cb8980-c480-11eb-932d-17cd607fc08c.png)
+
 
 BreadBoard View
 
